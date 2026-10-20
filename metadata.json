@@ -1,0 +1,6 @@
+{
+  "name": "TenderWise India",
+  "description": "Independent digital research publication and educational archive on Indian government procurement, GeM seller registration, tender compliance, and verified opportunity analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
